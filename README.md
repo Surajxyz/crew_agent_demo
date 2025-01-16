@@ -1,2 +1,7 @@
-# crew_agent_demo
-Research and writting agent using open ai and groq
+# CrewAI-Agents-Demo
+
+conda create -n agentdemo python=3.11 -y
+
+conda activate agentdemo
+
+pip install -r requirements.txt
